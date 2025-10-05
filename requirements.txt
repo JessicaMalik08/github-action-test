@@ -1,0 +1,17 @@
+# Flask for web application development
+Flask==3.0.3
+
+# Requests for making HTTP requests
+requests==2.32.3
+
+# Pandas for data manipulation (if needed)
+pandas==2.2.2
+
+# SQLAlchemy for database interaction (if needed)
+SQLAlchemy==2.0.30
+
+# gunicorn for production server deployment
+gunicorn==22.0.0
+
+# Add other project-specific libraries below this line
+# my-custom-lib==1.0.0
